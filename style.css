@@ -1,0 +1,29 @@
+.body{
+    display: flex;
+    justify-content: center;
+}
+.wrapper{
+    height: 90vh;
+    text-align: center;
+    font-size: 18px;
+    color:#db9f27;
+    align-content: center;
+ 
+}
+.check{
+    background-color: brown;
+    border: none;
+    padding: 15px;
+    color: #fff;
+}
+.input{
+    text-align: center;
+    border:none;
+    padding: 15px;
+    background-color: #db9f27;
+    color: #ffff;
+  outline:none;
+}
+.calculate{
+    color: brown;
+}
